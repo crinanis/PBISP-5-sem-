@@ -1,0 +1,4 @@
+﻿  ServerT.cpp
+E:\1POIT\3\ПБСП\lab2\ServerT\ServerT.cpp(156,8): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\1POIT\3\ПБСП\lab2\ServerT\ServerT.cpp(114,7): warning C4101: t: неиспользованная локальная переменная
+  ServerT.vcxproj -> E:\1POIT\3\ПБСП\lab2\x64\Debug\ServerT.exe
